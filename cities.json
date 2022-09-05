@@ -1,0 +1,180 @@
+[
+    {
+        "title": "Hawa mahal",
+        "image": "https://lp-cms-production.imgix.net/2019-06/GettyImages-469786746_super.jpg?auto=format&q=40&w=640&ar=16%3A9&fit=crop&crop=center&fm=auto",
+        "city": "Jaipur"
+    },
+    {
+        "title": "Jal mahal",
+        "image": "https://media.istockphoto.com/photos/jal-mahal-jaipur-rajasthan-india-picture-id453234117?b=1&k=20&m=453234117&s=170667a&w=0&h=r0d8Eaco14PlMnZiaOxYBn2vw9quJHjqq9P4SHiaxVM=",
+        "city": "Jaipur"
+    },
+    {
+        "title": "Jaigarh fort",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Rajasthan-Jaipur-Jaigarh-Fort-compound-Apr-2004-00.JPG",
+        "city": "Jaipur"
+    },
+    {
+        "title": "Amer Fort",
+        "image": "https://c4.wallpaperflare.com/wallpaper/312/454/429/amer-fort-india-wallpaper-preview.jpg",
+        "city": "Jaipur"
+    },
+    {
+        "title": "Nahrgarh Fort",
+        "image": "https://image3.mouthshut.com/images/imagesp/925752565s.jpg",
+        "city": "Jaipur"
+    },
+    {
+        "title": "City palace jaipur",
+        "image": "https://powcb.b-cdn.net/wp-content/uploads/2013/12/city_palace.jpg",
+        "city": "Jaipur"
+    },
+    {
+        "title": "Dargah Sherrif",
+        "image": "https://pyt-blogs.imgix.net/2020/07/Dargah_of_moinuddin_chishti.jpg?auto=format&ixlib=php-3.3.0",
+        "city": "Ajmer"
+    },
+    {
+        "title": "Ana Sagar Lake",
+        "image": "https://image3.mouthshut.com/images/imagesp/925752578s.jpg",
+        "city": "Ajmer"
+    },
+    {
+        "title": "Adhai-Din Ka Jhonpra",
+        "image": "https://www.trawell.in/admin/images/upload/197582878Ajmer_Adhai_Din_Ka_Jhonpra_Main.jpg",
+        "city": "Ajmer"
+    },
+    {
+        "title": "Akbar's Palace & Museum",
+        "image": "https://www.trawell.in/admin/images/upload/197582183Ajmer_Akbar_Palace_Main.jpg",
+        "city": "Ajmer"
+    },
+    {
+        "title": "Pushkar",
+        "image": "https://media.istockphoto.com/photos/pushkar-is-a-town-in-the-ajmer-district-in-the-indian-state-of-picture-id1413259227?b=1&k=20&m=1413259227&s=170667a&w=0&h=dSvFUHYcLkwFFdMPLpD8K-kEjl5LJlWFgc0_N1xHodE=",
+        "city": "Ajmer"
+    },
+    {
+        "title": "Sonar Fort",
+        "image": "https://www.researchgate.net/publication/272764266/figure/fig1/AS:614019534692377@1523405073591/The-Golden-Fort-or-Sonar-Kila-on-top-of-Trikuta-Hill-in-Jaisalmer-Photograph-Arnab.png",
+        "city": "Jaisalmer"
+    },
+    {
+        "title": "Kothari's Patwaon-Ki-Haveli",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/46/aa/4a/patwaon-ki-haveli.jpg?w=500&h=400&s=1",
+        "city": "Jaisalmer"
+    },
+    {
+        "title": "Bada Bagh",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f5/3f/d0/bada-bagh.jpg?w=500&h=400&s=1",
+        "city": "Jaisalmer"
+    },
+    {
+        "title": "Maharaja's Palace",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/79/43/49/maharaja-s-palace.jpg?w=500&h=400&s=1",
+        "city": "Jaisalmer"
+    },
+    {
+        "title": "Desert National park",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ef/e8/27/desert-nation-park.jpg?w=500&h=400&s=1",
+        "city": "Jaisalmer"
+    }
+    ,
+    {
+        "title": "City Palace Udaipur",
+        "image": "https://image3.mouthshut.com/images/imagesp/925752688s.jpg",
+        "city": "Udaipur"
+    },
+    {
+        "title": "Sahelion ki Bari",
+        "image": "https://udaipurtourism.co.in/images/places-to-visit/headers/garden-of-the-maidens-sahelion-ki-bari-udaipur-indian-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+        "city": "Udaipur"
+    },
+    {
+        "title": "Jag Mandir",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/85/5d/af/jag-mandir.jpg?w=500&h=400&s=1",
+        "city": "Udaipur"
+    },
+    {
+        "title": "Jagdish Temple",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/33/e8/34/incredible-art.jpg?w=500&h=-1&s=1",
+        "city": "Udaipur"
+    },
+    {
+        "title": "Ambrai Ghat",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/86/28/66/city-palace-during-sunset.jpg?w=500&h=400&s=1",
+        "city": "Udaipur"
+    },
+    {
+        "title": "Fatehsagar Lake",
+        "image": "https://myudaipurcity.com/wp-content/uploads/2017/01/Fateh-Sagar-Lake-Udaipur-1.jpg",
+        "city": "Udaipur"
+    },
+    {
+        "title": "Ekling temple",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d4/5c/be/eklingji-temple.jpg?w=1200&h=1200&s=1",
+        "city": "Udaipur"
+    },
+    {
+        "title": "Mehrangarh Fort",
+        "image": "https://image3.mouthshut.com/images/imagesp/925738452s.jpg",
+        "city": "Jodhpur"
+    },
+    {
+        "title": "Khejarla Fort",
+        "image": "https://www.rajasthandirect.com/wp-content/uploads/2013/06/Khejarla-Fort.jpg",
+        "city": "Jodhpur"
+    },
+    {
+        "title": "Umaid Bhavan Palace",
+        "image": "https://images.unsplash.com/photo-1504194947363-2f14d9e0e445?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW1haWQlMjBiaGF3YW4lMjBwYWxhY2UlMkMlMjBqb2RocHVyJTJDJTIwaW5kaWF8ZW58MHx8MHx8&w=1000&q=80",
+        "city": "Jodhpur"
+    },
+    {
+        "title": "Moti Mahal",
+        "image": "https://www.tourmyindia.com/images/moti-mahal2.jpg",
+        "city": "Jodhpur"
+    },
+    {
+        "title": "Sheesh Mahal",
+        "image": "https://images.on-this.website/27763_14643421875879f640da6b9.jpg",
+        "city": "Jodhpur"
+    },
+    {
+        "title": "Phool Mahal",
+        "image": "https://jodhpurtourism.in/images//tourist-places/phool-mahal-jodhpur/phool-mahal-jodhpur-tourism-entry-ticket-price.jpg",
+        "city": "Jodhpur"
+    },
+    {
+        "title": "Chittorgarh Fort",
+        "image": "https://c4.wallpaperflare.com/wallpaper/996/732/832/castles-india-water-pools-chittorgarh-fort-1600x1178-nature-water-hd-art-wallpaper-preview.jpg",
+        "city": "Chittorgarh"
+    },
+    {
+        "title": "Padmini Palace",
+        "image": "https://www.tourmyindia.com/images/padmini-palace3.jpg",
+        "city": "Chittorgarh"
+    },
+    {
+        "title": "Gau mukh kund",
+        "image": "https://www.nativeplanet.com/photos/325x244x100/2018/12/photo-91-145531-1.jpg",
+        "city": "Chittorgarh"
+    },
+    {
+        "title": "Meera Temple",
+        "image": "https://www.tourmyindia.com/images/meera-bai-temple1.jpg",
+        "city": "Chittorgarh"
+    },
+    {
+        "title": "Bassi wildlife sanctuary",
+        "image": "https://www.rajasthandirect.com/wp-content/uploads/2017/05/Antelope-in-Bassi-Wildlife-Sanctuary.jpg",
+        "city": "Chittorgarh"
+    },
+    {
+        "title": "Vijay stambh",
+        "image": "https://image3.mouthshut.com/images/imagesp/925752680s.jpg",
+        "city": "Chittorgarh"
+    }
+    
+
+]

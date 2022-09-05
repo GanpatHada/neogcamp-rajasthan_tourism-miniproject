@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neogcamp-rajasthan_tourism-miniproject/static/css/main.0d9e8b20.css",
+    "main.js": "/neogcamp-rajasthan_tourism-miniproject/static/js/main.851324ac.js",
+    "static/js/787.eede7334.chunk.js": "/neogcamp-rajasthan_tourism-miniproject/static/js/787.eede7334.chunk.js",
+    "index.html": "/neogcamp-rajasthan_tourism-miniproject/index.html",
+    "main.0d9e8b20.css.map": "/neogcamp-rajasthan_tourism-miniproject/static/css/main.0d9e8b20.css.map",
+    "main.851324ac.js.map": "/neogcamp-rajasthan_tourism-miniproject/static/js/main.851324ac.js.map",
+    "787.eede7334.chunk.js.map": "/neogcamp-rajasthan_tourism-miniproject/static/js/787.eede7334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d9e8b20.css",
+    "static/js/main.851324ac.js"
+  ]
+}
