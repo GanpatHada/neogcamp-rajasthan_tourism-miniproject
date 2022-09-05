@@ -4,7 +4,7 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: 'El Messiri', sans-serif; 
+  font-family: 'Roboto', sans-serif; 
   text-align: center;
 }
 :root{
@@ -24,12 +24,13 @@ header{
   height: 80px;
   color: white;
   display: flex;
-  align-items: center;
   padding-left: 20px;
   width: 100%;
   font-size: 34px;
   overflow-x: hidden;
+  align-items: center;
 }
+
 footer{
   background-color: var(--pink);
   height: 60px;
@@ -44,7 +45,6 @@ footer{
   
 }
 main{
-  
   min-height: calc(100vh - 200px);
   display: flex;
   flex-wrap: wrap;
@@ -52,16 +52,26 @@ main{
   background-color: #d3a2c84f;
   width: 100%;
   overflow-x: hidden;
+  padding-bottom: 0px;
+  
   
 }
+#logo{
+  height: 40px;
+  width: 40px;
+  display: none;
+}
+#imagearea{
+  background-color: aqua;
+}
 .content{
-  margin: 20px;
-  border-radius: 5px;
   text-align: center;
   background-color: white;
   overflow: hidden;
-  height: 300px;
-  width: 280px;
+  height: 340px;
+  width: 300px;
+  margin-bottom: 20px;
+  margin-right: 20px;
 }
 caption{
   display: flex;
@@ -144,7 +154,6 @@ nav::-webkit-scrollbar{
 @media (max-width: 720px){
   .content{
     margin: 20px;
-    border-radius: 5px;
     text-align: center;
     background-color: white;
     overflow: hidden;
@@ -156,7 +165,7 @@ nav::-webkit-scrollbar{
 @media (max-width: 620px){
   .content{
     margin: 20px;
-    border-radius: 5px;
+    
     text-align: center;
     background-color: white;
     overflow: hidden;
@@ -166,14 +175,22 @@ nav::-webkit-scrollbar{
   
 }
 @media (max-width: 560px){
+  main{
+    padding: 10px;
+  }
   .content{
-    margin: 20px;
-    border-radius: 5px;
+    margin: 10px auto;
     text-align: center;
     background-color: white;
     overflow: hidden;
     height: 80vw;
-    width: 85vw;
+    width: 90vw;
+  }
+  #logo{
+    display: block;
+  }
+  header span{
+    display: none;
   }
   
 }

@@ -1,5 +1,5 @@
 import { Fragment, useEffect, useState } from "react";
-
+import mylogo from './mylogo.png'
 function App() {
   const [list, setlist] = useState([]);
   const [cityname,setCityName]=useState("All");
@@ -34,13 +34,13 @@ function App() {
   return (
     <>
       <header>
-        Rajasthan Tourism
+        <img id="logo" src={mylogo} alt=".." />
+        <span>Rajasthan Tourism</span>
       </header>
       <nav className="sticky-top">
         <div className={(cityname==="All" ? "box active" : "box inactive")} onClick={setCity}>
           <span>All</span>
         </div>
-
         {
           cityarr.map((citylist, index) => {
             return (
@@ -51,8 +51,10 @@ function App() {
           })
 
         }
+        
       </nav>
       <main>
+       
         {
           list.map((newdata, index) => {
             return (
@@ -63,6 +65,7 @@ function App() {
             )
           })
         }
+        
       </main>
       <footer>
         &copy; copyright 2022 | Ganpat Hada | Rajasthan Tourism
