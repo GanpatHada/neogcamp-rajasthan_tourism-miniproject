@@ -1,24 +1,73 @@
-import logo from './logo.svg';
-import './App.css';
+import { Fragment, useEffect, useState } from "react";
 
 function App() {
+  const [list, setlist] = useState([]);
+  const [cityname,setCityName]=useState("All");
+  const fetchPlaces=async(cityname)=>{
+    const response=await fetch('cities.json');
+    const data=await response.json();
+    if(cityname==="All")
+       { setlist(data);
+        console.log(list.length);
+       }
+    else
+    {
+      const filterdata=data.filter((e)=>{
+        if(e.city===cityname)
+            return true;
+        return false;
+      })
+       setlist(filterdata);
+        console.log(list.length);
+    }    
+  }
+  const setclass="box active";
+  const setCity=(event)=>{
+      setCityName(event.target.innerText);
+  }
+  useEffect(() => {
+    fetchPlaces(cityname);
+  }, [cityname])
+
+  let cityarr = ["Jaipur", "Chittorgarh", "Jodhpur", "Ajmer", "Udaipur", "Jaisalmer"]
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <>
+      <header>
+        Rajasthan Tourism
       </header>
-    </div>
+      <nav className="sticky-top">
+        <div className={(cityname==="All" ? "box active" : "box inactive")} onClick={setCity}>
+          <span>All</span>
+        </div>
+
+        {
+          cityarr.map((citylist, index) => {
+            return (
+              <div className={(cityname===citylist ? "box active" : "box inactive")} key={index} onClick={setCity}>
+                <span>{citylist}</span>
+              </div>
+            )
+          })
+
+        }
+      </nav>
+      <main>
+        {
+          list.map((newdata, index) => {
+            return (
+              <div className="content" key={index}>
+                <img src={newdata.image}  alt="..." />
+                <caption>{newdata.title}</caption>
+              </div>
+            )
+          })
+        }
+      </main>
+      <footer>
+        &copy; copyright 2022 | Ganpat Hada | Rajasthan Tourism
+      </footer>
+    </>
   );
 }
 
