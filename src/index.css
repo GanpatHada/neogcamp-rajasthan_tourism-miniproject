@@ -61,7 +61,7 @@ main{
   background-color: white;
   overflow: hidden;
   height: 300px;
-  width: 300px;
+  width: 280px;
 }
 caption{
   display: flex;
