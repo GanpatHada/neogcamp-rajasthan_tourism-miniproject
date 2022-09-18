@@ -2,183 +2,256 @@
     {
         "title": "Hawa mahal",
         "image": "https://lp-cms-production.imgix.net/2019-06/GettyImages-469786746_super.jpg?auto=format&q=40&w=640&ar=16%3A9&fit=crop&crop=center&fm=auto",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "address":"Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Jal mahal",
         "image": "https://media.istockphoto.com/photos/jal-mahal-jaipur-rajasthan-india-picture-id453234117?b=1&k=20&m=453234117&s=170667a&w=0&h=r0d8Eaco14PlMnZiaOxYBn2vw9quJHjqq9P4SHiaxVM=",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "address":"Amer Rd, Jal Mahal, Amer, Jaipur, Rajasthan 302002",
+        "rating":"⭐⭐⭐"
     },
     {
         "title": "WTP mall",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/World_Trade_Park_Mall.gif",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "address":"Jawahar Lal Nehru Marg, D-Block, Malviya Nagar, Jaipur, Rajasthan 302017",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Jaigarh fort",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Rajasthan-Jaipur-Jaigarh-Fort-compound-Apr-2004-00.JPG",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "address":"Devisinghpura, Amer, Jaipur, Rajasthan 302028",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Amer Fort",
         "image": "https://c4.wallpaperflare.com/wallpaper/312/454/429/amer-fort-india-wallpaper-preview.jpg",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "address":"Devisinghpura, Amer, Jaipur, Rajasthan 302001",
+        "rating":"⭐⭐⭐⭐⭐"
     },
     {
         "title": "Nahrgarh Fort",
         "image": "https://image3.mouthshut.com/images/imagesp/925752565s.jpg",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "address":"Krishna Nagar, Brahampuri, Jaipur, Rajasthan 302002",
+        "rating": "⭐⭐⭐⭐"
+
     },
     {
         "title": "City palace jaipur",
         "image": "https://powcb.b-cdn.net/wp-content/uploads/2013/12/city_palace.jpg",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "address":"Tulsi Marg, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Dargah Sherrif",
         "image": "https://pyt-blogs.imgix.net/2020/07/Dargah_of_moinuddin_chishti.jpg?auto=format&ixlib=php-3.3.0",
-        "city": "Ajmer"
+        "city": "Ajmer",
+        "address":"Dargah Sharif, Khadim Mohalla, Diggi Bazaar, Ajmer, Rajasthan 305001",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Ana Sagar Lake",
         "image": "https://image3.mouthshut.com/images/imagesp/925752578s.jpg",
-        "city": "Ajmer"
+        "city": "Ajmer",
+        "address":" Ander Kote Rd, Lakhan Kothri, Ajmer, Rajasthan 305001",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Adhai-Din Ka Jhonpra",
         "image": "https://www.trawell.in/admin/images/upload/197582878Ajmer_Adhai_Din_Ka_Jhonpra_Main.jpg",
-        "city": "Ajmer"
+        "city": "Ajmer",
+        "address":" Ander Kote Rd, Lakhan Kothri, Ajmer, Rajasthan 305001",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Akbar's Palace & Museum",
         "image": "https://www.trawell.in/admin/images/upload/197582183Ajmer_Akbar_Palace_Main.jpg",
-        "city": "Ajmer"
+        "city": "Ajmer",
+        "address":"Naya Bazar, Naya Bazaar, Ajmer, Rajasthan 305001",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Pushkar",
         "image": "https://media.istockphoto.com/photos/pushkar-is-a-town-in-the-ajmer-district-in-the-indian-state-of-picture-id1413259227?b=1&k=20&m=1413259227&s=170667a&w=0&h=dSvFUHYcLkwFFdMPLpD8K-kEjl5LJlWFgc0_N1xHodE=",
-        "city": "Ajmer"
+        "city": "Ajmer",
+        "address":"Pushkar Ajmer Rajasthan 305022",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Sonar Fort",
         "image": "https://www.researchgate.net/publication/272764266/figure/fig1/AS:614019534692377@1523405073591/The-Golden-Fort-or-Sonar-Kila-on-top-of-Trikuta-Hill-in-Jaisalmer-Photograph-Arnab.png",
-        "city": "Jaisalmer"
+        "city": "Jaisalmer",
+        "address":"Gopa chok, near fort parking, Jaisalmer, Rajasthan 345001",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Kothari's Patwaon-Ki-Haveli",
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/46/aa/4a/patwaon-ki-haveli.jpg?w=500&h=400&s=1",
-        "city": "Jaisalmer"
+        "city": "Jaisalmer",
+        "address":"No. 3129, opposite Choora Paada, Jaisalmer, Rajasthan 345001",
+        "rating": "⭐⭐⭐"
     },
     {
         "title": "Bada Bagh",
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f5/3f/d0/bada-bagh.jpg?w=500&h=400&s=1",
-        "city": "Jaisalmer"
+        "city": "Jaisalmer",
+        "address":"XV4Q+23X, Rajasthan 345001",
+        "rating": "⭐⭐⭐"
     },
     {
         "title": "Maharaja's Palace",
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/79/43/49/maharaja-s-palace.jpg?w=500&h=400&s=1",
-        "city": "Jaisalmer"
+        "city": "Jaisalmer",
+        "address":"Gopa chok, near fort parking, Jaisalmer, Rajasthan 345001",
+        "rating": "⭐⭐⭐"
     },
     {
         "title": "Desert National park",
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ef/e8/27/desert-nation-park.jpg?w=500&h=400&s=1",
-        "city": "Jaisalmer"
+        "city": "Jaisalmer",
+        "address":"Myajlar Road, Jaisalmer, Rajasthan 345001",
+        "rating": "⭐⭐⭐"
     }
     ,
     {
         "title": "City Palace Udaipur",
         "image": "https://image3.mouthshut.com/images/imagesp/925752688s.jpg",
-        "city": "Udaipur"
+        "city": "Udaipur",
+        "address":"Old City, Udaipur, Rajasthan 313001",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Sahelion ki Bari",
         "image": "https://udaipurtourism.co.in/images/places-to-visit/headers/garden-of-the-maidens-sahelion-ki-bari-udaipur-indian-tourism-entry-fee-timings-holidays-reviews-header.jpg",
-        "city": "Udaipur"
+        "city": "Udaipur",
+        "address":"116 NAG COTTAGE, opp. SAHELIOYON KI, Bari, Rajasthan 313001",
+        "rating": "⭐⭐⭐"
     },
     {
         "title": "Jag Mandir",
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/85/5d/af/jag-mandir.jpg?w=500&h=400&s=1",
-        "city": "Udaipur"
+        "city": "Udaipur",
+        "address":"Pichola, Udaipur, Rajasthan 313001",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Jagdish Temple",
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/33/e8/34/incredible-art.jpg?w=500&h=-1&s=1",
-        "city": "Udaipur"
+        "city": "Udaipur",
+        "address":"1 jagdish tample, Rajasthan 313001",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Ambrai Ghat",
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/86/28/66/city-palace-during-sunset.jpg?w=500&h=400&s=1",
-        "city": "Udaipur"
+        "city": "Udaipur",
+        "address":" Chandpole Maji Ka Mandir corner of Lake Pichola, Pichola, Udaipur, Rajasthan 313001",
+        "rating": "⭐⭐⭐"
     },
     {
         "title": "Fatehsagar Lake",
         "image": "https://myudaipurcity.com/wp-content/uploads/2017/01/Fateh-Sagar-Lake-Udaipur-1.jpg",
-        "city": "Udaipur"
+        "city": "Udaipur",
+        "address":"Dewali, Udaipur, Rajasthan, 313001, India",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Ekling temple",
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d4/5c/be/eklingji-temple.jpg?w=1200&h=1200&s=1",
-        "city": "Udaipur"
+        "city": "Udaipur",
+        "address":"National Highway No 8, Kailashpuri, Udaipur, Rajasthan, 313202, India",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Mehrangarh Fort",
         "image": "https://image3.mouthshut.com/images/imagesp/925738452s.jpg",
-        "city": "Jodhpur"
+        "city": "Jodhpur",
+        "address":"P.B # 165, The, Fort Rd, Jodhpur, Rajasthan 342006",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Khejarla Fort",
         "image": "https://www.rajasthandirect.com/wp-content/uploads/2013/06/Khejarla-Fort.jpg",
-        "city": "Jodhpur"
+        "city": "Jodhpur",
+        "address":"Hotel Fort Khejarla Village Khejarla, Tehsil Bilara, Distt, Khejarla, Rajasthan 342601",
+        "rating": "⭐⭐⭐"
     },
     {
         "title": "Umaid Bhavan Palace",
         "image": "https://images.unsplash.com/photo-1504194947363-2f14d9e0e445?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW1haWQlMjBiaGF3YW4lMjBwYWxhY2UlMkMlMjBqb2RocHVyJTJDJTIwaW5kaWF8ZW58MHx8MHx8&w=1000&q=80",
-        "city": "Jodhpur"
+        "city": "Jodhpur",
+        "address":"Circuit House Rd, Cantt Area, Jodhpur, Rajasthan 342006",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Moti Mahal",
         "image": "https://www.tourmyindia.com/images/moti-mahal2.jpg",
-        "city": "Jodhpur"
+        "city": "Jodhpur",
+        "address":"Jaipur Jaisalmer Bypass, Dalibai Circle, opposite India Greens,Jodhpur, Rajasthan 342008",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Sheesh Mahal",
         "image": "https://images.on-this.website/27763_14643421875879f640da6b9.jpg",
-        "city": "Jodhpur"
+        "city": "Jodhpur",
+        "address":"Mehrangarh Fort,, Jodhpur, Rajasthan",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Phool Mahal",
         "image": "https://jodhpurtourism.in/images//tourist-places/phool-mahal-jodhpur/phool-mahal-jodhpur-tourism-entry-ticket-price.jpg",
-        "city": "Jodhpur"
+        "city": "Jodhpur",
+        "address":"Fort Entrance Rd, Sodagaran Mohalla, Jodhpur, Rajasthan 342001",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Chittorgarh Fort",
         "image": "https://c4.wallpaperflare.com/wallpaper/996/732/832/castles-india-water-pools-chittorgarh-fort-1600x1178-nature-water-hd-art-wallpaper-preview.jpg",
-        "city": "Chittorgarh"
+        "city": "Chittorgarh",
+        "address":"Chittor Fort Rd, Chittorgarh, Rajasthan 312001",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Padmini Palace",
         "image": "https://www.tourmyindia.com/images/padmini-palace3.jpg",
-        "city": "Chittorgarh"
+        "city": "Chittorgarh",
+        "address":" Chittorgarh Fort Village, Chittorgarh, Rajasthan 312001",
+        "rating": "⭐⭐⭐⭐⭐"
     },
     {
         "title": "Gau mukh kund",
         "image": "https://www.nativeplanet.com/photos/325x244x100/2018/12/photo-91-145531-1.jpg",
-        "city": "Chittorgarh"
+        "city": "Chittorgarh",
+        "address":"Gaumukh Kund, Chittorgarh, Rajasthan 312001",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Meera Temple",
         "image": "https://www.tourmyindia.com/images/meera-bai-temple1.jpg",
-        "city": "Chittorgarh"
+        "city": "Chittorgarh",
+        "address":" Chittorgarh Fort Village, Chittorgarh, Rajasthan 312001",
+        "rating": "⭐⭐⭐⭐"
     },
     {
         "title": "Bassi wildlife sanctuary",
         "image": "https://www.rajasthandirect.com/wp-content/uploads/2017/05/Antelope-in-Bassi-Wildlife-Sanctuary.jpg",
-        "city": "Chittorgarh"
+        "city": "Chittorgarh",
+        "address":"Bassi, Rajasthan 312022",
+        "rating": "⭐⭐⭐"
     },
     {
         "title": "Vijay stambh",
         "image": "https://image3.mouthshut.com/images/imagesp/925752680s.jpg",
-        "city": "Chittorgarh"
+        "city": "Chittorgarh",
+        "address":"Vijay Stambh, Chittorgarh Fort, Chittorgarh,Rajasthan",
+        "rating": "⭐⭐⭐⭐"
     }
     
 

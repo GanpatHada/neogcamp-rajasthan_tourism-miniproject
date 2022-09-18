@@ -1,10 +1,9 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=El+Messiri&family=Josefin+Sans:wght@200;400&family=Lobster&family=Roboto&family=Ubuntu:wght@300&family=Varela+Round&family=Zen+Loop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Comfortaa:wght@500&family=El+Messiri&family=Josefin+Sans:wght@200;400&family=Lobster&family=Pacifico&family=Roboto&family=Sofia&family=Ubuntu:wght@300&family=Varela+Round&family=Zen+Loop&display=swap');
 *{
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif; 
   text-align: center;
 }
 :root{
@@ -29,20 +28,25 @@ header{
   font-size: 34px;
   overflow-x: hidden;
   align-items: center;
+  font-family: 'cinzel'
 }
 
 footer{
   background-color: var(--pink);
-  height: 60px;
   color: white;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content:center;
   padding: 0px 20px;
   width: 100%;
   overflow-x: hidden;
+  padding-bottom: 20px;
   
+}
+footer p{
+  margin: 20px 20px 10px 20px;
 }
 main{
   min-height: calc(100vh - 200px);
@@ -68,10 +72,10 @@ main{
   text-align: center;
   background-color: white;
   overflow: hidden;
-  height: 340px;
-  width: 300px;
+  width: 330px;
   margin-bottom: 20px;
   margin-right: 20px;
+  border-radius: 5px;
 }
 caption{
   display: flex;
@@ -79,7 +83,6 @@ caption{
   justify-content: center;
   color: var(--pink);
   font-weight: bold;
-  height: 15%;
 }
 
 nav{
@@ -95,9 +98,18 @@ nav{
   overflow-x: auto;
 }
 img{
-  height: 85%;
+  height: 200px;
   width: 100%;
   object-fit: cover;
+}
+#address{
+  text-align: start;
+  margin: 0px 10px;
+  color: rgb(109, 109, 109);
+  font-family: 'ubuntu';
+}
+#rating{
+  margin: 10px;
 }
 nav::-webkit-scrollbar{
   display: none;
@@ -118,6 +130,11 @@ nav::-webkit-scrollbar{
   width: auto;
   cursor: pointer;
   
+}
+i{
+  color:#ffffff;
+  font-size: 24px;
+  margin: 10px 7px;
 }
 .inactive{
   transition: 0.3s;
@@ -157,7 +174,6 @@ nav::-webkit-scrollbar{
     text-align: center;
     background-color: white;
     overflow: hidden;
-    height: 250px;
     width: 250px;
   }
   
@@ -165,11 +181,9 @@ nav::-webkit-scrollbar{
 @media (max-width: 620px){
   .content{
     margin: 20px;
-    
     text-align: center;
     background-color: white;
     overflow: hidden;
-    height: 220px;
     width: 220px;
   }
   
@@ -183,8 +197,10 @@ nav::-webkit-scrollbar{
     text-align: center;
     background-color: white;
     overflow: hidden;
-    height: 80vw;
     width: 90vw;
+  }
+  img{
+    height: 60vw;
   }
   #logo{
     display: block;

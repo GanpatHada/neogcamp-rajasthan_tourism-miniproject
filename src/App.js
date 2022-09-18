@@ -61,6 +61,8 @@ function App() {
               <div className="content" key={index}>
                 <img src={newdata.image}  alt="..." />
                 <caption>{newdata.title}</caption>
+                <p id="address">{newdata.address}</p>
+                <p id="rating">{newdata.rating}</p>
               </div>
             )
           })
@@ -68,7 +70,15 @@ function App() {
         
       </main>
       <footer>
-        &copy; copyright 2022 | Ganpat Hada | Rajasthan Tourism
+        
+        <p>&copy; copyright 2022 | Ganpat Hada | Rajasthan Tourism</p>
+        <span>
+           <a href="https://www.linkedin.com/in/ganpat-hada-33abb4227/" target="_blank"><i className="fa-brands fa-linkedin"></i></a>
+           <a href="https://github.com/GanpatHada" target="_blank"><i className="fa-brands fa-github"></i></a>
+           <a href="https://twitter.com/ganpat_hada" target="_blank"><i className="fa-brands fa-twitter"></i></a>
+           
+        </span>
+        
       </footer>
     </>
   );
